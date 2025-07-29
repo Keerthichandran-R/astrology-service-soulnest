@@ -1,7 +1,5 @@
 # soulnest
-# 🌺 Soul Nest - A Sacred Emotional and Spiritual Companion
 
-**Created by Keerthi Chandran (Pappu 🌹)**
 
 Soul Nest is a gentle digital sanctuary — a sacred place where emotion, divination, and care meet. It’s a minimal AI- and code-driven support tool built to hold your soul gently.
 
